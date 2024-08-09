@@ -1,2 +1,2 @@
 # WhiteBot-V2
-https://docs.google.com/spreadsheets/d/107IQMHzhb_lmn6bLJnfZ6H_NcmIB41HT7PNygl_TGoQ/edit?usp=sharing
+https://www.notion.so/whitet-dev/Untitled-6eedb713d7604959b654bf7b9faa8d19?pvs=4
